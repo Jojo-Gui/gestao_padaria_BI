@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.0">
-  <diagram name="Página-1" id="gXFtv3BTqYMonTvVq5S8">
-    <mxGraphModel dx="-190" dy="-202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="MER Padaria" id="gXFtv3BTqYMonTvVq5S8">
+    <mxGraphModel dx="-796" dy="-1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Minimundo Padaria&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Os clientes do banco podem ser pessoas interessadas em fazer uma compra na&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;padaria. Para se cadastrar no banco dos clientes deverá apresentar cpf, nome, e-mail e&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;telefone. O banco atribui um código próprio para identificar qualquer um dos seus&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;clientes, sendo este o seu cpf. Cada cliente está associado a uma ou mais compra/venda.&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cada compra/venda possui um código que a identifica, seus dados de ocorrência e uma&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;quantidade. Além de existir um fornecedor que possua um CNPJ, nome e endereço. Há também uma relação de fornecimento que associa fornecedores a produtos. Além de&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;uma relação que especifica a quantidade de produtos que um funcionário produziu em&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;um determinado mês. Existe uma relação em que um funcionário possui ou não um&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;supervisor. O funcionário possui no banco além de cpf e nome, o número da carteira de&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;trabalho, o seu cargo (Gerente, Padeiro ou Caixa) e o valor do seu salário, sendo então&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;associado à compra/venda de um ou mais determinados produtos e à produção de&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;nenhum ou vários produtos. O produto possui um código de referência, seu tipo, nome&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;e valor.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1369.56" y="2180.06" width="820" height="180" as="geometry" />
+          <mxGeometry x="1364" y="2190" width="820" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CLIENTE&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1589.56" y="2860.06" width="120" height="30" as="geometry" />
@@ -149,8 +149,8 @@
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COMPRA/VENDA&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="2860.06" width="120" height="29.94" as="geometry" />
         </mxCell>
-        <mxCell id="KD0KFBvW2MBOYKPqu_wu-39" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;produz&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2147.5" y="2920.06" width="80" height="30" as="geometry" />
+        <mxCell id="KD0KFBvW2MBOYKPqu_wu-39" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;produz&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2147.5" y="2940.06" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-40" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KD0KFBvW2MBOYKPqu_wu-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -194,20 +194,6 @@
             <mxPoint x="2337.5" y="3040.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KD0KFBvW2MBOYKPqu_wu-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="KD0KFBvW2MBOYKPqu_wu-18" target="KD0KFBvW2MBOYKPqu_wu-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2267.5" y="3040.06" as="sourcePoint" />
-            <mxPoint x="2287.5" y="3080.06" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2267.5" y="3043.06" />
-              <mxPoint x="2267.5" y="3100.06" />
-              <mxPoint x="2237.5" y="3100.06" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KD0KFBvW2MBOYKPqu_wu-50" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;supervisiona&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="2237.5" y="3070.06" width="50" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-52" value="cod_cv" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1840" y="2800.06" width="60" height="20" as="geometry" />
         </mxCell>
@@ -216,6 +202,24 @@
         </mxCell>
         <mxCell id="KD0KFBvW2MBOYKPqu_wu-104" value="data/hora" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1950" y="2800.06" width="70" height="19.94" as="geometry" />
+        </mxCell>
+        <mxCell id="6kTg2oS-cJQBycoq-FWa-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SUPERVISIONA&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2187.5" y="3100.06" width="112.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6kTg2oS-cJQBycoq-FWa-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.644;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0KFBvW2MBOYKPqu_wu-18" target="6kTg2oS-cJQBycoq-FWa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2250" y="3040" as="sourcePoint" />
+            <mxPoint x="2270" y="3035" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2260" y="3035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6kTg2oS-cJQBycoq-FWa-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.938;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KD0KFBvW2MBOYKPqu_wu-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="3090" as="sourcePoint" />
+            <mxPoint x="2260" y="3070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
